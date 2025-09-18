@@ -6,6 +6,10 @@
 </div>
 
 ---
+<div align="center">
+  
+## ✨ ***"To create something extraordinary, all it takes is the belief that it is!"***
+</div>
 
 ## About Me
 - 🎯 My Story: I am a Vietnamese boy who has been passionate about computers since childhood. With a natural ability to learn new technologies quickly, I focused on back-end development while exploring programming. However, I recognized that I needed to expand my skills to bring my ideas to life. Therefore, I've sought additional learning opportunities outside of school and am now on my journey to becoming a full-stack developer.
